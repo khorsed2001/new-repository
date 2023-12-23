@@ -38,3 +38,9 @@ section{
     border-radius: 5px;
     font-weight: 700;
 }
+.dream-area{
+    background-image:url(images/developer-portfolio/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
